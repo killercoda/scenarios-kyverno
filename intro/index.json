@@ -1,0 +1,18 @@
+{
+  "title": "Intro",
+  "description": "Install Kyverno on Kubernetes and use it",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Installation and first contact",
+        "text": "step1/text.md"
+      }
+    ]
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-2nodes"
+  }
+}
